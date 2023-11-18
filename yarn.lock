@@ -9636,6 +9636,11 @@ throat@^6.0.1:
   resolved "https://registry.npmjs.org/throat/-/throat-6.0.2.tgz"
   integrity sha512-WKexMoJj3vEuK0yFEapj8y64V0A6xcuPuK9Gt1d0R+dzCSJc0lHqQytAbSB4cDAK0dWh4T0E2ETkoLE2WZ41OQ==
 
+through@~2.3.4:
+  version "2.3.8"
+  resolved "https://registry.npmjs.org/through/-/through-2.3.8.tgz"
+  integrity sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==
+
 thunky@^1.0.2:
   version "1.1.0"
   resolved "https://registry.npmjs.org/thunky/-/thunky-1.1.0.tgz"
@@ -9968,6 +9973,13 @@ vary@~1.1.2:
   version "1.1.2"
   resolved "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz"
   integrity sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==
+
+vibrant@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/vibrant/-/vibrant-0.0.1.tgz"
+  integrity sha512-qs5u7xmnRdgEJcfPIk/T2FYwkuSZrv3GH4mjxOcEbZWWHtYYlIhF6NeRNcknUQ6q0fFueK9LY0M3xsWXd7M+eQ==
+  dependencies:
+    through "~2.3.4"
 
 w3c-hr-time@^1.0.2:
   version "1.0.2"
